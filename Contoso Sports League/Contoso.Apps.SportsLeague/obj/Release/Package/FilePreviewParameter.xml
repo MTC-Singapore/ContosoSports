@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\modern-cloud-apps-student\\Contoso\ Sports\ League\\Contoso\.Apps\.SportsLeague\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\modern-cloud-apps-student\\Contoso\ Sports\ League\\Contoso\.Apps\.SportsLeague\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Add write permission to App_Data Folder" description="Add write permission to App_Data folder" value="Default Web Site/App_Data" tags="Hidden">
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\modern-cloud-apps-student\\Contoso\ Sports\ League\\Contoso\.Apps\.SportsLeague\\obj\\Release\\Package\\PackageTmp\\App_Data$" />
+  </parameter>
+  <parameter name="ContosoSportsLeague-Web.config Connection String" description="" value="Server=tcp:contososportsleague-db.database.windows.net,1433;Database=ContosoSportsSQL;User ID=mtc@contososportsleague-db;Password=abcd1234!;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;&#xD;&#xA;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\modern-cloud-apps-student\\Contoso\ Sports\ League\\Contoso\.Apps\.SportsLeague\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ContosoSportsLeague']/@connectionString" />
+  </parameter>
+</parameters>

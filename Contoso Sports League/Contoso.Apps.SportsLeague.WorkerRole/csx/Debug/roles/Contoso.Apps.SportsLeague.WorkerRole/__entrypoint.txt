@@ -1,0 +1,1 @@
+Contoso.Apps.SportsLeague.WorkerRole.dll
