@@ -8,3 +8,8 @@ C:\modern-cloud-apps-student\Contoso Sports League\Contoso.Apps.Common\bin\Debug
 C:\modern-cloud-apps-student\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.dll
 C:\modern-cloud-apps-student\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.pdb
 C:\modern-cloud-apps-student\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.csprojResolveAssemblyReference.cache
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.Common\bin\Debug\Contoso.Apps.Common.dll
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.Common\bin\Debug\Contoso.Apps.Common.pdb
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.csprojResolveAssemblyReference.cache
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.dll
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.pdb

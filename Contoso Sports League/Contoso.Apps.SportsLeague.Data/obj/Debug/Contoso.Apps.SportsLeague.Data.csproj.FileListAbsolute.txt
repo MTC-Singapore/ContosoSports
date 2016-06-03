@@ -18,3 +18,13 @@ C:\modern-cloud-apps-student\Contoso Sports League\Contoso.Apps.SportsLeague.Dat
 C:\modern-cloud-apps-student\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.csprojResolveAssemblyReference.cache
 C:\modern-cloud-apps-student\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.dll
 C:\modern-cloud-apps-student\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.pdb
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\Contoso.Apps.SportsLeague.Data.dll.config
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\Contoso.Apps.SportsLeague.Data.dll
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\Contoso.Apps.SportsLeague.Data.pdb
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.dll
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.xml
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.csprojResolveAssemblyReference.cache
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.dll
+C:\Users\mtc\Source\Repos\ContosoSports\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.pdb

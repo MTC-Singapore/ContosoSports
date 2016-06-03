@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{DBDBBBA2-A33D-4E21-B37E-99775CCBE570}"
 	ProjectSection(SolutionItems) = preProject
@@ -42,44 +42,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Apps.SportsLeague.Admin", "Contoso.Apps.SportsLeague.Admin\Contoso.Apps.SportsLeague.Admin.csproj", "{004842AE-0F56-4CA2-9257-370B742D2BD4}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 9
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://project-contososports.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Contoso.Apps.Common\\Contoso.Apps.Common.csproj
-		SccProjectTopLevelParentUniqueName1 = Contoso.Apps.SportsLeague.sln
-		SccProjectName1 = Contoso.Apps.Common
-		SccLocalPath1 = Contoso.Apps.Common
-		SccProjectUniqueName2 = Contoso.Apps.PaymentGateway\\Contoso.Apps.PaymentGateway.csproj
-		SccProjectTopLevelParentUniqueName2 = Contoso.Apps.SportsLeague.sln
-		SccProjectName2 = Contoso.Apps.PaymentGateway
-		SccLocalPath2 = Contoso.Apps.PaymentGateway
-		SccProjectUniqueName3 = Contoso.Apps.SportsLeague.Admin\\Contoso.Apps.SportsLeague.Admin.csproj
-		SccProjectTopLevelParentUniqueName3 = Contoso.Apps.SportsLeague.sln
-		SccProjectName3 = Contoso.Apps.SportsLeague.Admin
-		SccLocalPath3 = Contoso.Apps.SportsLeague.Admin
-		SccProjectUniqueName4 = Contoso.Apps.SportsLeague.Data\\Contoso.Apps.SportsLeague.Data.csproj
-		SccProjectTopLevelParentUniqueName4 = Contoso.Apps.SportsLeague.sln
-		SccProjectName4 = Contoso.Apps.SportsLeague.Data
-		SccLocalPath4 = Contoso.Apps.SportsLeague.Data
-		SccProjectUniqueName5 = Contoso.Apps.SportsLeague.Offers\\Contoso.Apps.SportsLeague.Offers.csproj
-		SccProjectTopLevelParentUniqueName5 = Contoso.Apps.SportsLeague.sln
-		SccProjectName5 = Contoso.Apps.SportsLeague.Offers
-		SccLocalPath5 = Contoso.Apps.SportsLeague.Offers
-		SccProjectUniqueName6 = Contoso.Apps.SportsLeague.WorkerRole\\Contoso.Apps.SportsLeague.WorkerRoleService.ccproj
-		SccProjectTopLevelParentUniqueName6 = Contoso.Apps.SportsLeague.sln
-		SccProjectName6 = Contoso.Apps.SportsLeague.WorkerRole
-		SccLocalPath6 = Contoso.Apps.SportsLeague.WorkerRole
-		SccProjectUniqueName7 = Contoso.Apps.SportsLeague\\Contoso.Apps.SportsLeague.Web.csproj
-		SccProjectTopLevelParentUniqueName7 = Contoso.Apps.SportsLeague.sln
-		SccProjectName7 = Contoso.Apps.SportsLeague
-		SccLocalPath7 = Contoso.Apps.SportsLeague
-		SccProjectUniqueName8 = ContosoSportsLeageWorkerRole\\Contoso.Apps.SportsLeague.WorkerRole.csproj
-		SccProjectTopLevelParentUniqueName8 = Contoso.Apps.SportsLeague.sln
-		SccProjectName8 = ContosoSportsLeageWorkerRole
-		SccLocalPath8 = ContosoSportsLeageWorkerRole
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
